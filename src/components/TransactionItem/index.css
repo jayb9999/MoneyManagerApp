@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  border-width: 0px 1px 1px 1px;
+  padding: 10px;
+  font-size: 25px;
+}
+.divv {
+  display: flex;
+  flex-grow: 1;
+}
